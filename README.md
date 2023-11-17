@@ -1,4 +1,4 @@
-# Reconhecimento de Fala em Python
+#Reconhecimento de Fala em Python
 
 Este script Python utiliza a biblioteca SpeechRecognition para realizar o reconhecimento de fala. Ele captura a entrada de áudio do microfone, ajusta para o ruído ambiente e tenta transcrever a fala usando o serviço de reconhecimento de fala do Google para o idioma português do Brasil.
 
